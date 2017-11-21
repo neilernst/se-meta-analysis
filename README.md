@@ -40,3 +40,10 @@ In this paper we investigate the techniques used in medical research to combine 
 [PDF](https://pdfs.semanticscholar.org/9599/aa996302c3ece477edc4122f0dee5e78f0ca.pdf)
 
 > The use of meta-analytic techniques to summarize empirical software engineering research results is illustrated using a set of 5 published experiments from the literature. The intent of the analysis is to guide future work in this area through objective summarization of the literature to date. A focus on effect magnitude, in addition to statistical significance is championed, and the reader is provided with an illustration of simple methods for computing effect magnitudes.
+
+3. Brooks, Andy. "Meta analysis—a silver bullet—for meta-analysts." Empirical Software Engineering 2.4 (1997): 333-338. DOI: 10.1023/A:1009793700999
+
+[Free PDF](http://faculty.ksu.edu.sa/ghazy/Documents/Emp%20SWE%2097/Meta%20Analysis—A%20Silver%20Bullet—for%20Meta-Analysts.pdf)
+
+>Many of those who recognize that software engineering problems are people problems, and who engage in subject-based empirical software engineering, will have formed the view by now that their research paradigm is broadly similar to that employed by psychologists. Null hypotheses are framed, experiments are designed, subjects are found (from somewhere), and the resulting data are analyzed by statistical means, interpretations of the data are bound up very much in the null hypothesis and the statistical test of significance. The null hypothesis states that there is no difference between treatment and control group means i.e., the data are all drawn from the same population. The intention, of course, is to reject the null hypothesis and make a claim that something (the treatment) has been found that makes a difference e.g., that software engineers using tool or technique A can deliver in less time and with fewer errors than those using tool or technique B. But what lessons have psychologists learnt in conducting research along these lines for a good few decades now?
+> 
