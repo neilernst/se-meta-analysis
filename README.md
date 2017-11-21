@@ -1,4 +1,4 @@
-A meta-analysis is a research study that looks at previous empirical work and uses the underlying data to generate statsitical inferences from the collective results.
+A meta-analysis is a research study that looks at previous empirical work and pools the underlying data to generate statistical inferences from the collective results.
 
 This is often done in medicine and biology to summarize research studies and look for trends. E.g., of these 10 studies on diabetic ulcers, is there evidence from all of them for treatment A?
 
