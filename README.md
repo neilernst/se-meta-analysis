@@ -2,7 +2,7 @@ A meta-analysis is a research study that looks at previous empirical work and us
 
 This is often done in medicine and biology to summarize research studies and look for trends. E.g., of these 10 studies on diabetic ulcers, is there evidence from all of them for treatment A?
 
-A related study is a systematic literature review. The difference is that an SLR does not conduct statistical inference testing, rather it is a qualitative summary of different studies.
+A related type of study is a systematic literature review. The difference is that an SLR does not conduct statistical inference testing, rather it is a qualitative summary of different studies.
 
 This repository collects research papers claiming to do meta-analysis in software engineering. Where possible, I link to a free PDF. 
 
@@ -20,4 +20,11 @@ Spawned from this tweet and responses thereto: https://twitter.com/neilernst/sta
 [Free PDF](http://bura.brunel.ac.uk/bitstream/2438/8784/2/Fulltext.pdf)
 
 > Abstract: Background. The ability to predict defect-prone software components would be valuable. Consequently, there have been many empirical studies to evaluate the performance of different techniques endeavouring to accomplish this effectively. However no one technique dominates and so designing a reliable defect prediction model remains problematic. Objective. We seek to make sense of the many conflicting experimental results and understand which factors have the largest effect on predictive performance. Method. We conduct a meta-analysis of all relevant, high quality primary studies of defect prediction to determine what factors influence predictive performance. This is based on 42 primary studies that satisfy our inclusion criteria that collectively report 600 sets of empirical prediction results. By reverse engineering a common response variable we build a random effects ANOVA model to examine the relative contribution of four model building factors (classifier, data set, input metrics and researcher group) to model prediction performance. Results. Surprisingly we find that the choice of classifier has little impact upon performance (1.3 percent) and in contrast the major (31 percent) explanatory factor is the researcher group. It matters more who does the work than what is done. Conclusion. To overcome this high level of researcher bias, defect prediction researchers should (i) conduct blind analysis, (ii) improve reporting protocols and (iii) conduct more intergroup studies in order to alleviate expertise issues. Lastly, research is required to determine whether this bias is prevalent in other applications domains.
+
+3. Lutz Prechelt, "The 28: 1 Grant-Sackman Legend is Misleading, Or: how Large is Interpersonal Variation Really", December **1999**, Universität Karlsruhe, Technical Report 1999-18. 
+
+[Free PDF](http://page.mi.fu-berlin.de/prechelt/Biblio/varianceTR.pdf)
+
+> How long do different programmers take to solve the same task? In 1967, Grant and Sackman published their now famous number of 28:1 interpersonal performance differences, which is both incorrect and misleading.
+This report presents the analysis of a much larger dataset of software engineering work time data with respect to the same question. It corrects the false 28:1 value, proposes more appropriate metrics, presents the results for the larger dataset, and presents results of several further analyses: distribution shapes, effect sizes, and the performance of various significance tests.
 
