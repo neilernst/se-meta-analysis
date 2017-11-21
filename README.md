@@ -34,3 +34,9 @@ This report presents the analysis of a much larger dataset of software engineeri
 
 > Abstract
 In this paper we investigate the techniques used in medical research to combine results from independent empirical studies of a particular phenomenon: meta-analysis and vote-counting. We use an example to illustrate the benefits and limitations of each technique and to indicate the criteria that should be used to guide your choice of technique. Meta-analysis is appropriate for homogeneous studies when raw data or quantitative summary information, e.g. correlation coefficient, are available. It can also be used for heterogeneous studies where the cause of the heterogeneity is due to well-understood partitions in the subject population. In other circumstances, meta-analysis is usually invalid. Although intuitively appealing, vote-counting has a number of serious limitations and should usually be avoided. We suggest that combining study results is unlikely to solve all the problems encountered in empirical software engineering studies, but some of the infrastructure and controls used by medical researchers to improve the quality of their empirical studies would be useful in the field of software engineering.
+
+2. Hayes, Will. "Research synthesis in software engineering: a case for meta-analysis." Sixth International Software Metrics Symposium, 1999.
+
+[PDF](https://pdfs.semanticscholar.org/9599/aa996302c3ece477edc4122f0dee5e78f0ca.pdf)
+
+> The use of meta-analytic techniques to summarize empirical software engineering research results is illustrated using a set of 5 published experiments from the literature. The intent of the analysis is to guide future work in this area through objective summarization of the literature to date. A focus on effect magnitude, in addition to statistical significance is championed, and the reader is provided with an illustration of simple methods for computing effect magnitudes.
